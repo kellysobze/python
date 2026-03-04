@@ -1,0 +1,14 @@
+nome,eta,citta
+Mario,30,Roma
+Luca,venti,Milano
+,25,Torino
+Giulia,28,
+Anna,22,Bologna
+Paolo,29,Napoli
+Sara,26,Firenze
+
+#a partire da questo csv, effettuare la sanificazione dei dati, aggiungere una colonna seniority (junior, mid, senior) ed esportare:
+
+utenti_validi.csv
+utenti_non_validi.csv
+utenti.json (solo validi)

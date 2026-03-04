@@ -6,3 +6,6 @@ for i in numeri:
     if i>10:
         number.append(i/2)
 print(number)
+
+numeri_pari=[for numero in numeri if numero%2 == 0]
+print(numeri_pari)

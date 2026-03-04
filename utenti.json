@@ -1,0 +1,10 @@
+{
+  "nome": 'Mario',
+  "eta": 30,
+  "attivo": true,
+  "interessi": "calcio"
+}
+prompt=f""
+Genera la descrizione di questo utente:
+Si chiama Anna e ha 22 anni
+""
